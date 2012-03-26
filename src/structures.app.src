@@ -1,0 +1,8 @@
+%% -*- erlang -*-
+{application, structures,
+ [{description, "structures"},
+  {vsn, "1"},
+  {modules, []},
+  {registered, []},
+  {env, []},
+  {applications, [kernel, stdlib]}]}.
